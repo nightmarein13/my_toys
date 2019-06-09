@@ -1,3 +1,5 @@
+Most copy from rhf1d
+
 in */rh15d/io.h*
 
 add variable `ray_flux_var` in `/* for the ray file */`
