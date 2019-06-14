@@ -2,7 +2,7 @@ import os
 import numpy as np
 import xarray as xr
 import matplotlib.pyplot as plt
-import rh15d
+from helita.sim import rh15d
 import ipywidgets.widgets as widgets
 import h5py
 from ipywidgets import interact, Button, Layout, HBox, FloatText
